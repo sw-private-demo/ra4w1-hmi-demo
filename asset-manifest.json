@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/ra4w1-hmi-demo/static/js/main.e4ffe706.chunk.js",
+    "main.js.map": "/ra4w1-hmi-demo/static/js/main.e4ffe706.chunk.js.map",
+    "runtime-main.js": "/ra4w1-hmi-demo/static/js/runtime-main.d86aa07e.js",
+    "runtime-main.js.map": "/ra4w1-hmi-demo/static/js/runtime-main.d86aa07e.js.map",
+    "static/js/2.02d2622e.chunk.js": "/ra4w1-hmi-demo/static/js/2.02d2622e.chunk.js",
+    "static/js/2.02d2622e.chunk.js.map": "/ra4w1-hmi-demo/static/js/2.02d2622e.chunk.js.map",
+    "index.html": "/ra4w1-hmi-demo/index.html",
+    "static/js/2.02d2622e.chunk.js.LICENSE.txt": "/ra4w1-hmi-demo/static/js/2.02d2622e.chunk.js.LICENSE.txt",
+    "static/media/connect.9613614a.png": "/ra4w1-hmi-demo/static/media/connect.9613614a.png",
+    "static/media/fan_high_speed.223329ef.gif": "/ra4w1-hmi-demo/static/media/fan_high_speed.223329ef.gif",
+    "static/media/fan_low_speed.bda97dac.gif": "/ra4w1-hmi-demo/static/media/fan_low_speed.bda97dac.gif",
+    "static/media/fan_normal_speed.c6159781.gif": "/ra4w1-hmi-demo/static/media/fan_normal_speed.c6159781.gif",
+    "static/media/fan_stop.ccdfd827.png": "/ra4w1-hmi-demo/static/media/fan_stop.ccdfd827.png",
+    "static/media/fan_swing.ef281920.gif": "/ra4w1-hmi-demo/static/media/fan_swing.ef281920.gif",
+    "static/media/indoor_environment.d2850d23.png": "/ra4w1-hmi-demo/static/media/indoor_environment.d2850d23.png",
+    "static/media/led_control.8b9cc012.png": "/ra4w1-hmi-demo/static/media/led_control.8b9cc012.png",
+    "static/media/vr_result.6473d950.png": "/ra4w1-hmi-demo/static/media/vr_result.6473d950.png",
+    "static/media/vr_settings.3a278b38.png": "/ra4w1-hmi-demo/static/media/vr_settings.3a278b38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d86aa07e.js",
+    "static/js/2.02d2622e.chunk.js",
+    "static/js/main.e4ffe706.chunk.js"
+  ]
+}
