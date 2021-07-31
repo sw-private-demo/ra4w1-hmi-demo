@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "483cf9df3e0f251e283b1dacf1845b22",
+    "revision": "1693c9c713b80d0fb9fd10f1def4ad16",
     "url": "/ra4w1-hmi-demo/index.html"
   },
   {
-    "revision": "cb4a3a7310218f4065b4",
-    "url": "/ra4w1-hmi-demo/static/js/2.dd63596d.chunk.js"
+    "revision": "5f014f449e214e18fa98",
+    "url": "/ra4w1-hmi-demo/static/js/2.360e5c61.chunk.js"
   },
   {
     "revision": "6397acf4c5cafcd591a770ce33fc3e2f",
-    "url": "/ra4w1-hmi-demo/static/js/2.dd63596d.chunk.js.LICENSE.txt"
+    "url": "/ra4w1-hmi-demo/static/js/2.360e5c61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bdb4357bbb245e196c41",
-    "url": "/ra4w1-hmi-demo/static/js/main.8f40a3d7.chunk.js"
+    "revision": "33631c25993805b04759",
+    "url": "/ra4w1-hmi-demo/static/js/main.da8320bd.chunk.js"
   },
   {
-    "revision": "8d8ba98abdfb15693068",
-    "url": "/ra4w1-hmi-demo/static/js/runtime-main.fa2eb947.js"
+    "revision": "83b4381b0f01f5abffdf",
+    "url": "/ra4w1-hmi-demo/static/js/runtime-main.385a495b.js"
   },
   {
     "revision": "a931d56706bbd9ff507d3b6db5b5df68",

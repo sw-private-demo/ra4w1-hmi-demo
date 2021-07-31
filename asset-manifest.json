@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/ra4w1-hmi-demo/static/js/main.8f40a3d7.chunk.js",
-    "main.js.map": "/ra4w1-hmi-demo/static/js/main.8f40a3d7.chunk.js.map",
-    "runtime-main.js": "/ra4w1-hmi-demo/static/js/runtime-main.fa2eb947.js",
-    "runtime-main.js.map": "/ra4w1-hmi-demo/static/js/runtime-main.fa2eb947.js.map",
-    "static/js/2.dd63596d.chunk.js": "/ra4w1-hmi-demo/static/js/2.dd63596d.chunk.js",
-    "static/js/2.dd63596d.chunk.js.map": "/ra4w1-hmi-demo/static/js/2.dd63596d.chunk.js.map",
+    "main.js": "/ra4w1-hmi-demo/static/js/main.da8320bd.chunk.js",
+    "main.js.map": "/ra4w1-hmi-demo/static/js/main.da8320bd.chunk.js.map",
+    "runtime-main.js": "/ra4w1-hmi-demo/static/js/runtime-main.385a495b.js",
+    "runtime-main.js.map": "/ra4w1-hmi-demo/static/js/runtime-main.385a495b.js.map",
+    "static/js/2.360e5c61.chunk.js": "/ra4w1-hmi-demo/static/js/2.360e5c61.chunk.js",
+    "static/js/2.360e5c61.chunk.js.map": "/ra4w1-hmi-demo/static/js/2.360e5c61.chunk.js.map",
     "index.html": "/ra4w1-hmi-demo/index.html",
-    "precache-manifest.5e9e9303db072259f4cd58291cc08af8.js": "/ra4w1-hmi-demo/precache-manifest.5e9e9303db072259f4cd58291cc08af8.js",
+    "precache-manifest.f49fa072e450e1e64322d926c7fc09d2.js": "/ra4w1-hmi-demo/precache-manifest.f49fa072e450e1e64322d926c7fc09d2.js",
     "service-worker.js": "/ra4w1-hmi-demo/service-worker.js",
-    "static/js/2.dd63596d.chunk.js.LICENSE.txt": "/ra4w1-hmi-demo/static/js/2.dd63596d.chunk.js.LICENSE.txt",
+    "static/js/2.360e5c61.chunk.js.LICENSE.txt": "/ra4w1-hmi-demo/static/js/2.360e5c61.chunk.js.LICENSE.txt",
     "static/media/connect.png": "/ra4w1-hmi-demo/static/media/connect.a931d567.png",
     "static/media/fan_high_speed.gif": "/ra4w1-hmi-demo/static/media/fan_high_speed.574b3f84.gif",
     "static/media/fan_low_speed.gif": "/ra4w1-hmi-demo/static/media/fan_low_speed.6db14f9c.gif",
@@ -22,8 +22,8 @@
     "static/media/vr_settings.png": "/ra4w1-hmi-demo/static/media/vr_settings.9a34a66c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa2eb947.js",
-    "static/js/2.dd63596d.chunk.js",
-    "static/js/main.8f40a3d7.chunk.js"
+    "static/js/runtime-main.385a495b.js",
+    "static/js/2.360e5c61.chunk.js",
+    "static/js/main.da8320bd.chunk.js"
   ]
 }
